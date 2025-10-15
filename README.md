@@ -117,6 +117,3 @@ You can also open `plans.db` in any SQLite GUI tool (DB Browser for SQLite) if y
 - Do NOT commit your `.env` file or API keys. Add `.env` to `.gitignore`.
 - If you want to test without API calls, use `DISABLE_AI=1` as shown above.
 
-## License
-
-This project is provided as-is (no license specified). Add a LICENSE file if you want to open-source it.
